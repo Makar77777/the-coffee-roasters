@@ -1,0 +1,19 @@
+Latte
+A latte is a coffee drink with espresso, steamed milk and a layer of foam on top. It has ⅓ espresso and 2/3 steamed milk, with a thin layer of foam on top.
+$3.25
+
+Americano
+An Americano is an espresso drink made with hot water and espresso. The drink can be made with either one or two shots of espresso, and varying ratios of water (usually 2:1).
+$2.62
+
+Macchiato
+A caffè macchiato or espresso macchiato is a shot of espresso that’s topped with frothed milk.
+$3.50
+
+Cappuccino
+A cappuccino is an espresso drink with steamed milk, milk foam and espresso. It has equal parts espresso, steamed milk and foam (⅓ each).
+$4.36
+
+Espresso Con Panna
+A coffee drink with a single or double shot of espresso topped with a dollop of whipped cream.
+$2.85
